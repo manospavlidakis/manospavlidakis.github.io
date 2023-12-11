@@ -69,7 +69,7 @@ sections:
           location: Heraklion, Crete
           date_start: '2017-09-01'
           date_end: ''
-          description: |2-
+          description:
               Responsibilities include: Design and develop Arax, a runtime that manages and shares transparently multiple and heterogeneous accelerators
  
        - title: Research Engineer
