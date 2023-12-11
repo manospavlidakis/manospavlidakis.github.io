@@ -69,8 +69,8 @@ sections:
           location: Heraklion, Crete
           date_start: '2017-09-01'
           date_end: ''
-          description:
-              Responsibilities include: Design and develop Arax, a runtime that manages and shares transparently multiple and heterogeneous accelerators
+          description: |2-
+              Responsibilities include: adaassa
  
        - title: Research Engineer
           company: CARV, ICS-FORTH
