@@ -70,7 +70,32 @@ sections:
           location: Heraklion, Crete
           date_start: '2017-09-01'
           date_end: ''
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: Design and develop Arax, a runtime that manages and shares transparently multiple and heterogeneous accelerators.
+
+        - title: Research Engineer
+          company: CARV, ICS-FORTH
+          company_url: 'https://www.ics.forth.gr/carv/'
+          company_logo: forth_ics
+          location: Heraklion, Crete
+          date_start: '2017-01-01'
+          date_end: '2017-09-01'
+          description: Design and develop Vinetalk, a framework that simplifies FPGA access while enabling FPGA sharing across different applications
+        - title: Intern
+          company: CARV, ICS-FORTH
+          company_url: 'https://www.ics.forth.gr/carv/'
+          company_logo: forth_ics
+          location: Heraklion, Crete
+          date_start: '2016-05-01'
+          date_end: '2016-09-01'
+          description: Implementing an HDFS library over NoSQL DB
+        
+        - title: Free launcher
+          company: pavlidakisdev
+          location: Heraklion, Crete
+          date_start: '2013-06-01'
+          date_end: '2014-07-01'
+          description: Android application and website development
+
     design:
       columns: '2'
   - block: accomplishments
