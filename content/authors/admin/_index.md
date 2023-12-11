@@ -53,7 +53,6 @@ skills:
     items:
       - name: C/C++
         description: ''
-	icon: cuda
         percent: 80
       - name: CUDA
         description: ''
