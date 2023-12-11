@@ -30,15 +30,15 @@ bio: My research interests include machine learning, heterogeneous accelerators,
 # Interests to show in About widget
 interests:
   - Machine Learning
-  - Hardware Accelerators (GPUs, FPGAs) 
+  - Hardware Accelerators
   - Accelerator Runtimes
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Computer Science (Scalable Architectures and Parallel Programming)
-      institution: Stanford University
-      year: 2012
+      institution: University of Crete 
+      year: 2024
     - course: MSc in High Performance Distributed Computing
       institution: Vrije Universiteit (VU) Amsterdam
       year: 2016
@@ -51,10 +51,10 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: C/C++
         description: ''
         percent: 80
-        icon: python
+        icon: 
         icon_pack: fab
       - name: Data Science
         description: ''
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
- Hi, my name is Manos Pavlidakis and I am a software engineer with a Ph.D. in Computer Science and Engineering from the University of Crete, Greece. My doctoral research on the "Transparent Spatial Sharing of Multiple and Heterogeneous Accelerators" provided extensive hands-on experience in various accelerator programing models and runtimes, including OpenCL, CUDA, and ROCm. Additionally, I am well-versed in popular machine learning frameworks such as PyTorch, Caffe, and TensorFlow, showcasing a comprehensive skill set at the forefront of technology.
+ Hi, my name is Manos Pavlidakis and I am a software engineer with a Ph.D. in Computer Science and Engineering from the <link rel="stylesheet" href="https://www.csd.uoc.gr/"/>University of Crete, Greece. My doctoral research on the "Transparent Spatial Sharing of Multiple and Heterogeneous Accelerators" provided extensive hands-on experience in various accelerator programing models and runtimes, including OpenCL, CUDA, and ROCm. Additionally, I am well-versed in popular machine learning frameworks such as PyTorch, Caffe, and TensorFlow, showcasing a comprehensive skill set at the forefront of technology.
 {style="text-align: justify;"}
