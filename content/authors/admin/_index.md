@@ -66,7 +66,7 @@ skills:
       - name: OpenCL
         description: ''
         percent: 60
-        icon:assets/media/icons/opencl.png 
+        icon: assets/media/icons/opencl.png 
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
