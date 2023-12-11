@@ -54,23 +54,19 @@ skills:
       - name: C/C++
         description: ''
         percent: 80
-        icon: c-logo
-        icon_pack: assets/media/icons/
+        icon: assets/media/icons/c-logo.svg
       - name: CUDA
         description: ''
         percent: 90
-        icon: cuda
-        icon_pack: fas
+        icon: assets/media/icons/cuda
       - name: ROCm
         description: ''
         percent: 40
         icon: database
-        icon_pack: custom
       - name: OpenCL
         description: ''
         percent: 60
-        icon: database
-        icon_pack: fas
+        icon:assets/media/icons/opencl.png 
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -88,7 +84,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'manospavlidakis@gmail.com'
+    email: 'manospavlidakis@gmail.com'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/ManosPavlidakis
