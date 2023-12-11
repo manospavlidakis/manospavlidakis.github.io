@@ -52,7 +52,7 @@ sections:
       columns: '1'
   - block: experience
     content:
-      title: Experience
+      title: Working Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -62,27 +62,56 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Graduate Research Assistant
+          company: CARV, ICS-FORTH
+          company_url: 'https://www.ics.forth.gr/carv/'
+          company_logo: forth_ics.jpg
+          location: Heraklion, Crete
+          date_start: '2017-09-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              Responsibilities include: Design and develop Arax, a runtime that manages and shares transparently multiple and heterogeneous accelerators
+ 
+        - title: Teaching Assistant
+          company: CSD, UoC
+          company_url: 'https://www.csd.uoc.gr/CSD/index.jsp?lang=en'
+          company_logo: UoC_logo.png
+          location: Heraklion, Crete
+          date_start: '2017-09-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include: Marking assignments and exams, give tutorial lectures, answering student's questions, examine/helping students at digital design labs. Courses: Digital design (CS120), Programming lab (CS255), Embedded System Lab (CS428), Theory of Computation (CS280).
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+- Marking assignments and examina  
+       
+       - title: Research Engineer
+          company: CARV, ICS-FORTH
+          company_url: 'https://www.ics.forth.gr/carv/'
+          company_logo: forth_ics.jpg
+          location: Heraklion, Crete
+          date_start: '2017-01-01'
+          date_end: '2017-09-01'
+          description: |2-
+              Responsibilities include: Design and develop Vinetalk, a framework that simplifies FPGA access while enabling FPGA sharing across different applications
+       
+        - title: Intern
+          company: CARV, ICS-FORTH
+          company_url: 'https://www.ics.forth.gr/carv/'
+          company_logo: forth_ics.jpg
+          location: Heraklion, Crete
+          date_start: '2016-05-01'
+          date_end: '2016-09-01'
+          description: |2-
+              Responsibilities include: Implementing an HDFS library over NoSQL DB
+        - title: Free launcher
+          company: pavlidakisdev
+          location: Heraklion, Crete
+          date_start: '2013-06-01'
+          date_end: '2014-07-01'
+          description: |2-
+              Responsibilities include: Android application and website development 
+
+
     design:
       columns: '2'
   - block: accomplishments
