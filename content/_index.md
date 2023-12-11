@@ -62,19 +62,10 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-       - title: Graduate Research Assistant
+ 
+        - title: Graduate Research Assistant
           company: CARV, ICS-FORTH
           company_url: 'https://www.ics.forth.gr/carv/'
-          company_logo: forth_ics.jpg
-          location: Heraklion, Crete
-          date_start: '2017-09-01'
-          date_end: ''
-          description: |2-
-		 Responsibilities include: adaassa
- 
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
           company_logo: org-x
           location: California
           date_start: '2016-01-01'
