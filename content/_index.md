@@ -8,9 +8,9 @@ sections:
   - block: hero
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
-      title: Hugo Academic Theme
+      title:
       image:
-        filename: hero-academic.png
+        filename: 
       cta:
         label: '**Get Started**'
         url: https://hugoblox.com/templates/
