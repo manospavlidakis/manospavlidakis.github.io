@@ -230,22 +230,22 @@ sections:
 #    design:
 #      columns: '2'
   - block: contact
-    id: contact
+#   id: contact
     content:
       title: Contact
-      subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
-      # Contact (add or remove contact options as necessary)
+#      subtitle:
+#      text: |-
+#        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+#      # Contact (add or remove contact options as necessary)
       email: manospavlidakis(at)gmail(dot)com
-      address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      # Choose a map provider in `params.yaml` to show a map from these coordinates
+#      address:
+#        street: 450 Serra Mall
+#        city: Stanford
+#        region: CA
+#        postcode: '94305'
+#        country: United States
+#        country_code: US
+#      # Choose a map provider in `params.yaml` to show a map from these coordinates
       contact_links:
         - icon: linkedin
           icon_pack: fab
