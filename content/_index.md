@@ -93,6 +93,7 @@ sections:
               * Marking assignments and exams
               * Give tutorials
               * Answering student's questions
+              * Examine students at digital design labs 
 
         - title: Research Engineer
           company: CARV, ICS-FORTH
