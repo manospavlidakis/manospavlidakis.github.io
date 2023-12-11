@@ -72,16 +72,6 @@ sections:
           description: |2-
               Responsibilities include: Design and develop Arax, a runtime that manages and shares transparently multiple and heterogeneous accelerators
  
-        - title: Teaching Assistant
-          company: CSD, UoC
-          company_url: 'https://www.csd.uoc.gr/CSD/index.jsp?lang=en'
-          company_logo: UoC_logo.png
-          location: Heraklion, Crete
-          date_start: '2017-09-01'
-          date_end: ''
-          description: |2-
-Responsibilities include: Marking assignments and exams, give tutorial lectures, answering student's questions, examine/helping students at digital design labs. Courses inlude Digital design (CS120), Programming lab (CS255), Embedded System Lab (CS428), Theory of Computation (CS280).
-
        - title: Research Engineer
           company: CARV, ICS-FORTH
           company_url: 'https://www.ics.forth.gr/carv/'
