@@ -80,19 +80,19 @@ sections:
           date_start: '2017-09-01'
           date_end: ''
        
-        - title: CEO
-          company: GenCoin 
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Teaching Assistant 
+          company: CSD, UoC 
+          company_url: 'https://www.csd.uoc.gr/CSD/index.jsp?lang=en'
+          company_logo: uoc
+          location: Heraklion, Crete
+          date_start: '2017-09-01'
           date_end: ''
           description: |2-
               Responsibilities include:
     
-              * Analysing
-              * Modelling
-              * Deploying
+              * Marking assignments and exams
+              * Give tutorials
+              * Answering student's questions
 
         - title: Research Engineer
           company: CARV, ICS-FORTH
