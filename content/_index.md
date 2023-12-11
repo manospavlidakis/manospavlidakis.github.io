@@ -66,7 +66,7 @@ sections:
         - title: Graduate Research Assistant
           company: CARV, ICS-FORTH
           company_url: 'https://www.ics.forth.gr/carv/'
-          company_logo: org-x
+          company_logo: forth_ics
           location: California
           date_start: '2016-01-01'
           date_end: '2020-12-31'
