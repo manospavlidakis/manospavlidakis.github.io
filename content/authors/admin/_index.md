@@ -70,8 +70,6 @@ skills:
       - name: Padel
         description: ''
         percent: 70
-        icon: person-hiking
-        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
