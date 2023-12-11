@@ -255,16 +255,16 @@ sections:
           icon_pack: fab
           name: Skype Me
           link: 'https://join.skype.com/invite/gURHce08nVQV'
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '2'
+#     # Automatically link email and phone or display as text?
+#     autolink: true
+#      # Email form provider
+#      form:
+#        provider: netlify
+#        formspree:
+#          id:
+#        netlify:
+#          # Enable CAPTCHA challenge to reduce spam?
+#          captcha: false
+#    design:
+#      columns: '2'
 ---
