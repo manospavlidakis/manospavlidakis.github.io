@@ -75,7 +75,7 @@ sections:
         - title: Teaching Assistant
           company: CSD, UoC
           company_url: 'https://www.csd.uoc.gr/CSD/index.jsp?lang=en'
-#         company_logo: UoC_logo
+          company_logo: uoc
           location: Heraklion, Crete
           date_start: '2017-09-01'
           date_end: ''
