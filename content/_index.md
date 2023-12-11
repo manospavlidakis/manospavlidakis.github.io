@@ -85,11 +85,11 @@ sections:
                 * Give tutorial lectures
                 * Answering student's questions, 
                 * Examine and helping students at digital design labs
-         Courses: 
-                * Digital design (CS120)
-                * Programming lab (CS255)
-                * Embedded System Lab (CS428)
-                * Theory of Computation (CS280)
+#         Courses: 
+#                * Digital design (CS120)
+#                * Programming lab (CS255)
+#                * Embedded System Lab (CS428)
+#                * Theory of Computation (CS280)
 
         - title: Research Engineer
           company: CARV, ICS-FORTH
