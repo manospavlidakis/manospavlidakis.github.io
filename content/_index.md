@@ -79,11 +79,9 @@ sections:
           location: Heraklion, Crete
           date_start: '2017-09-01'
           date_end: ''
-#          description: |2-
-#Responsibilities include: Marking assignments and exams, give tutorial lectures, answering student's questions, examine/helping students at digital design labs. Courses inlude Digital design (CS120), Programming lab (CS255), Embedded System Lab (CS428), Theory of Computation (CS280).
+          description: |2-
+Responsibilities include: Marking assignments and exams, give tutorial lectures, answering student's questions, examine/helping students at digital design labs. Courses inlude Digital design (CS120), Programming lab (CS255), Embedded System Lab (CS428), Theory of Computation (CS280).
 
-- Marking assignments and examina  
-       
        - title: Research Engineer
           company: CARV, ICS-FORTH
           company_url: 'https://www.ics.forth.gr/carv/'
