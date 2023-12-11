@@ -79,19 +79,32 @@ sections:
           location: Heraklion, Crete
           date_start: '2017-09-01'
           date_end: ''
-          description: |2-
-          Responsibilities include: 
-
-		* Marking assignments and exams 
-                * Give tutorial lectures
-                * Answering student's questions, 
-                * Examine and helping students at digital design labs
+#         idescription: |2-
+#          Responsibilities include: 
+#
+#		* Marking assignments and exams 
+#                * Give tutorial lectures
+#                * Answering student's questions, 
+#                * Examine and helping students at digital design labs
 
 #         Courses: 
 #                * Digital design (CS120)
 #                * Programming lab (CS255)
 #                * Embedded System Lab (CS428)
 #                * Theory of Computation (CS280)
+       - title: CEO
+          company: GenCoin 
+          company_url: ''
+          company_logo: org-gc
+          location: California
+          date_start: '2021-01-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+    
+              * Analysing
+              * Modelling
+              * Deploying
 
         - title: Research Engineer
           company: CARV, ICS-FORTH
