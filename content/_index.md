@@ -72,14 +72,6 @@ sections:
           date_end: ''
           description: Design and develop Arax, a runtime that manages and shares transparently multiple and heterogeneous accelerators.
        
-        - title: Teaching Assistant
-          company: CSD, UoC
-          company_url: 'https://www.csd.uoc.gr/CSD/index.jsp?lang=en'
-          company_logo: uoc
-          location: Heraklion, Crete
-          date_start: '2017-09-01'
-          date_end: ''
-       
         - title: Teaching Assistant 
           company: CSD, UoC 
           company_url: 'https://www.csd.uoc.gr/CSD/index.jsp?lang=en'
@@ -103,6 +95,7 @@ sections:
           date_start: '2017-01-01'
           date_end: '2017-09-01'
           description: Design and develop Vinetalk, a framework that simplifies FPGA access while enabling FPGA sharing across different applications
+        
         - title: Intern
           company: CARV, ICS-FORTH
           company_url: 'https://www.ics.forth.gr/carv/'
