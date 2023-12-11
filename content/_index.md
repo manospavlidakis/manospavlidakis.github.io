@@ -113,7 +113,8 @@ sections:
           description: Implementing an HDFS library over NoSQL DB
         
         - title: Free launcher
-          company: pavlidakisdev
+          company: PavlidakisDev
+          company_logo: free
           location: Heraklion, Crete
           date_start: '2013-06-01'
           date_end: '2014-07-01'
