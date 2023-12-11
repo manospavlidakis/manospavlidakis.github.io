@@ -81,10 +81,12 @@ sections:
           date_end: ''
           description: |2-
           Responsibilities include: 
+
 		* Marking assignments and exams 
                 * Give tutorial lectures
                 * Answering student's questions, 
                 * Examine and helping students at digital design labs
+
 #         Courses: 
 #                * Digital design (CS120)
 #                * Programming lab (CS255)
