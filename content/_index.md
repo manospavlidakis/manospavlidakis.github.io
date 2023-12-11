@@ -80,7 +80,7 @@ sections:
           date_start: '2017-09-01'
           date_end: ''
           description: |2-
-              Responsibilities include: Marking assignments and exams, give tutorial lectures, answering student's questions, examine/helping students at digital design labs. Courses: Digital design (CS120), Programming lab (CS255), Embedded System Lab (CS428), Theory of Computation (CS280).
+              Responsibilities include: Marking assignments and exams, give tutorial lectures, answering student's questions, examine/helping students at digital design labs. Courses inlude Digital design (CS120), Programming lab (CS255), Embedded System Lab (CS428), Theory of Computation (CS280).
 
 - Marking assignments and examina  
        
