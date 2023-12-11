@@ -54,19 +54,15 @@ skills:
       - name: C/C++
         description: ''
         percent: 80
-        icon: assets/media/icons/c-logo.svg
       - name: CUDA
         description: ''
         percent: 90
-        icon: assets/media/icons/cuda
       - name: ROCm
         description: ''
         percent: 40
-        icon: database
       - name: OpenCL
         description: ''
         percent: 60
-        icon: assets/media/icons/opencl.png 
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
