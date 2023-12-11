@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Manos
+title: Manos Pavlidakis
 
 # Name pronunciation (optional)
-name_pronunciation: Manos Pavlidakis
+#name_pronunciation: Manos Pavlidakis
 
 # Full name (for SEO)
 first_name: Manos
 last_name: Pavlidakis
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -25,24 +25,26 @@ organizations:
     url: https://www.ics.forth.gr/carv/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include machine learning, heterogeneous accelerators, and accelerator runtimes.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - 
+  - Machine Learning
+  - Hardware Accelerators (GPUs, FPGAs) 
+  - Accelerator Runtimes
+
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Computer Science (Scalable Architectures and Parallel Programming)
       institution: Stanford University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in High Performance Distributed Computing
+      institution: Vrije Universiteit (VU) Amsterdam
+      year: 2016
+    - course: BSc in Information and Communication Systems Engineering
+      institution: University of Aegean, Samos
+      year: 2012
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -118,5 +120,5 @@ social:
 highlight_name: true
 ---
 
- Hi, my name is Manos Pavlidakis, and I am a Ph.D. candidate at the Computer Science Department (CSD) of the University of Crete (UoC), Greece. 
+ Hi, my name is Manos Pavlidakis and I am a software engineer with a Ph.D. in Computer Science and Engineering from the University of Crete, Greece. My doctoral research on the "Transparent Spatial Sharing of Multiple and Heterogeneous Accelerators" provided extensive hands-on experience in various accelerator programing models and runtimes, including OpenCL, CUDA, and ROCm. Additionally, I am well-versed in popular machine learning frameworks such as PyTorch, Caffe, and TensorFlow, showcasing a comprehensive skill set at the forefront of technology.
 {style="text-align: justify;"}
