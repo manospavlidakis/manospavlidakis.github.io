@@ -54,7 +54,6 @@ skills:
       - name: C/C++
         description: ''
         percent: 80
-        icon: assets/media/icons/brands/c-logo
       - name: CUDA
         description: ''
         percent: 90
@@ -73,13 +72,12 @@ skills:
         percent: 70
 
 # Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
-    mailto: manospavlidakis@gmail.com
+    mailto:manospavlidakis@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/ManosPavlidakis
