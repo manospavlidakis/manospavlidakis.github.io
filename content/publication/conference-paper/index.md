@@ -31,7 +31,7 @@ publication_types: ['paper-conference']
 publication: Under Submission
 #publication_short: In *ICW*
 
-abstract:Modern applications, such as machine learning frameworks, can only partially utilize beefy GPUs, leading to GPU underutilization in cloud environments. Sharing GPUs across multiple applications from different users can improve resource utilization and consequently cost, energy, and power efficiency. However, GPU sharing creates memory safety concerns because kernels need to share a single GPU address space (common GPU context). Previous GPU memory protection approaches have limited deployability because they require specialized hardware extensions or source code, which is not available in GPU-accelerated libraries heavily used from ML frameworks. 
+abstract: Modern applications, such as machine learning frameworks, can only partially utilize beefy GPUs, leading to GPU underutilization in cloud environments. Sharing GPUs across multiple applications from different users can improve resource utilization and consequently cost, energy, and power efficiency. However, GPU sharing creates memory safety concerns because kernels need to share a single GPU address space (common GPU context). Previous GPU memory protection approaches have limited deployability because they require specialized hardware extensions or source code, which is not available in GPU-accelerated libraries heavily used from ML frameworks. 
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
