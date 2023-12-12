@@ -16,11 +16,11 @@ authors:
 #  - 'Equal contribution'
 
 #date: '2013-07-01T00:00:00Z'
-date: 'under submission'
-doi: ''
+#date: 'under submission'
+#doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ''
+#publishDate: ''
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
