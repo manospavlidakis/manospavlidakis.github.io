@@ -1,5 +1,5 @@
 ---
-title: 'Guardian: Data Isolation for Multi-Tenant GPU Sharing'
+title: Guardian: Data Isolation for Multi-Tenant GPU Sharing
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
