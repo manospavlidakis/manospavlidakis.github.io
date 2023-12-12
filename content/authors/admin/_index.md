@@ -54,7 +54,7 @@ skills:
       - name: C/C++
         description: ''
         percent: 80
-        icon: c-logo
+        icon: assets/media/icons/brands/c-logo
       - name: CUDA
         description: ''
         percent: 90
@@ -79,7 +79,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    mailto: 'manospavlidakis@gmail.com'
+    mailto: manospavlidakis@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/ManosPavlidakis
