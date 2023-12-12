@@ -54,6 +54,7 @@ skills:
       - name: C/C++
         description: ''
         percent: 80
+        icon: c-logo
       - name: CUDA
         description: ''
         percent: 90
