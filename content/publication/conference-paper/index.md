@@ -6,8 +6,10 @@ title: 'Guardian: Data Isolation for Multi-Tenant GPU Sharing'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
-
+  - Giorgos Vasiliadis
+  - Stelios Mavridis
+  - Antony Chazapis
+  - Angelos Bilas
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
