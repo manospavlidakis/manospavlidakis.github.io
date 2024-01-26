@@ -1,5 +1,5 @@
 ---
-title: 'Introducing touchstroke: keystroke-based authentication system for smartphones'
+title: 'Introducing touch stroke: keystroke-based authentication system for smartphones'
 authors:
 - Georgios Kambourakis
 - Dimitrios Damopoulos
