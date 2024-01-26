@@ -18,4 +18,5 @@ publication_types:
 - paper-conference
 publication: '*Proceedings of the 18th International Conference on Embedded Computer
   Systems: Architectures, Modeling, and Simulation*'
+url_pdf: https://dl.acm.org/doi/abs/10.1145/3229631.3236093
 ---
