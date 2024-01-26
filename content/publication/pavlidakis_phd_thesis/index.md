@@ -1,5 +1,5 @@
 ---
-title: 'Transparent Spatial Sharing of Multiple and Heterogeneous Accelerators'
+title: 'PhD Thesis: Transparent Spatial Sharing of Multiple and Heterogeneous Accelerators'
 authors:
 - Manos Pavlidakis
 date: '2024-01-01'
