@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Pavlidakis # Website name
-baseURL: 'https://manospavlidakis.github.io/pavlidakiswebsite/' # Website URL
+baseURL: 'https://manospavlidakis.com' # Website URL
 
 ############################
 ## LANGUAGE
