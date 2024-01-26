@@ -11,4 +11,5 @@ publishDate: '2023-12-14T15:35:32.918245Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 13th Symposium on Cloud Computing*'
+url_pdf: https://dl.acm.org/doi/abs/10.1145/3542929.3563467
 ---
