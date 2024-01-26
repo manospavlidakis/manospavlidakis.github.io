@@ -12,4 +12,5 @@ publication_types:
 publication: '*2020 IEEE 22nd International Conference on High Performance Computing
   and Communications; IEEE 18th International Conference on Smart City; IEEE 6th International
   Conference on Data Science and Systems (HPCC/SmartCity/DSS)*'
+url_pdf: https://ieeexplore.ieee.org/abstract/document/9408050/
 ---
