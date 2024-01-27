@@ -1,7 +1,7 @@
 ---
-title: Why accelerators?
-summary: Introduction to hardware accelerators and their usage.
-date: '2021-06-21T00:00:00Z'
+title: Programming Languages for Accelerators.
+summary: Introduction to CUDA and other programming models for accelerators.
+date: '2022-01-22T00:00:00Z'
 
 links:
 #  - icon: twitter
@@ -10,6 +10,6 @@ links:
 #    url: https://www.youtube.com/watch?v=BGMsqP3vwqE
 #url_code: 'https://www.youtube.com/watch?v=BGMsqP3vwqE'
 #url_pdf: ''
-url_slides: 'https://drive.google.com/file/d/16pTF-uU6QQw6Gt7HXqyCY489Qd2rrkrO/view?usp=sharing'
-url_video: 'https://www.youtube.com/watch?v=BGMsqP3vwqE'
+url_slides: 'https://drive.google.com/file/d/1JXrwn8_tvagBeTrhCA_ta3GT_ZJfR43v/view?usp=sharing'
+url_video: 'https://www.youtube.com/watch?v=AtW1RXZy8a0'
 ---
