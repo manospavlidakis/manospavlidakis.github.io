@@ -16,5 +16,5 @@ publication_types:
 publication: '*2017 27th International Conference on Field Programmable Logic and
   Applications (FPL)*'
 url_pdf: https://ieeexplore.ieee.org/abstract/document/8056788
-url_slides: https://docs.google.com/presentation/d/1I7JKLUL542QDnJaLq2a6YxW4KSdd1MoU/edit?usp=drive_link&ouid=102965263330380145274&rtpof=true&sd=true
+url_slides: https://drive.google.com/file/d/1GmwmYg0fS3gw8QJmC2uhZCQQU4_P9sVw/view?usp=sharing
 ---
