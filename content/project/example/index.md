@@ -1,6 +1,6 @@
 ---
 title: Why accelerators?
-summary: Introducation to hardware accelerators and their usage.
+summary: Introduction to hardware accelerators and their usage.
 date: '2021-06-21T00:00:00Z'
 
 links:
