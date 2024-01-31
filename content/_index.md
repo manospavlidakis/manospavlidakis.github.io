@@ -242,13 +242,13 @@ sections:
 #      columns: '2'
   - block: contact
 #   id: contact
-    content:
-      title: Contact
+#    content:
+#      title: Contact
 #      subtitle:
 #      text: |-
 #        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
 #      # Contact (add or remove contact options as necessary)
-      email: manospavlidakis(at)gmail(dot)com
+#      email: manospavlidakis(at)gmail(dot)com
 #      address:
 #        street: 450 Serra Mall
 #        city: Stanford
@@ -257,15 +257,15 @@ sections:
 #        country: United States
 #        country_code: US
 #      # Choose a map provider in `params.yaml` to show a map from these coordinates
-      contact_links:
-        - icon: linkedin
-          icon_pack: fab
-          name: DM Me
-          link: 'https://www.linkedin.com/in/manos-pavlidakis/'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'https://join.skype.com/invite/gURHce08nVQV'
+#      contact_links:
+#        - icon: linkedin
+#          icon_pack: fab
+#          name: DM Me
+#          link: 'https://www.linkedin.com/in/manos-pavlidakis/'
+#        - icon: skype
+#          icon_pack: fab
+#          name: Skype Me
+#          link: 'https://join.skype.com/invite/gURHce08nVQV'
 #     # Automatically link email and phone or display as text?
 #     autolink: true
 #      # Email form provider

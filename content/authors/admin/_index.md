@@ -96,6 +96,10 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
+  - icon: skype
+    icon_pack: fab
+    name: Skype Me
+    link: 'https://join.skype.com/invite/gURHce08nVQV'
   - icon: cv
     icon_pack: ai
     link: uploads/ManosPavlidakis_CV_2023.pdf
