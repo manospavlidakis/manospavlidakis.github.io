@@ -10,6 +10,6 @@ links:
 #    url: https://www.youtube.com/watch?v=BGMsqP3vwqE
 #url_code: 'https://www.youtube.com/watch?v=BGMsqP3vwqE'
 #url_pdf: ''
-url_slides: 'https://drive.google.com/file/d/1JXrwn8_tvagBeTrhCA_ta3GT_ZJfR43v/view?usp=sharing'
+url_slides: uploads/Accelerators_programming.pdf
 url_video: 'https://www.youtube.com/watch?v=AtW1RXZy8a0'
 ---
